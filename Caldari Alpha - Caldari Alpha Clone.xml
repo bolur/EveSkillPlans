@@ -1,0 +1,208 @@
+﻿<?xml version="1.0"?>
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Caldari Alpha Clone" owner="bcb64178-d816-4db2-bf00-fcc5555be429" revision="4644">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Planned">
+    <notes>Electronic Warfare</notes>
+  </entry>
+  <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Planned">
+    <notes>Electronic Warfare</notes>
+  </entry>
+  <entry skillID="3435" skill="Propulsion Jamming" level="2" priority="1" type="Planned">
+    <notes>Propulsion Jamming</notes>
+  </entry>
+  <entry skillID="3435" skill="Propulsion Jamming" level="3" priority="1" type="Planned">
+    <notes>Propulsion Jamming</notes>
+  </entry>
+  <entry skillID="3319" skill="Missile Launcher Operation" level="2" priority="1" type="Prerequisite">
+    <notes>Light Missiles, Rapid Launch, Missile Projection, Target Navigation Prediction, Warhead Upgrades</notes>
+  </entry>
+  <entry skillID="3321" skill="Light Missiles" level="1" priority="1" type="Planned">
+    <notes>Light Missiles</notes>
+  </entry>
+  <entry skillID="3321" skill="Light Missiles" level="2" priority="1" type="Planned">
+    <notes>Light Missiles</notes>
+  </entry>
+  <entry skillID="3321" skill="Light Missiles" level="3" priority="1" type="Planned">
+    <notes>Light Missiles</notes>
+  </entry>
+  <entry skillID="21071" skill="Rapid Launch" level="1" priority="1" type="Planned">
+    <notes>Rapid Launch</notes>
+  </entry>
+  <entry skillID="21071" skill="Rapid Launch" level="2" priority="1" type="Planned">
+    <notes>Rapid Launch</notes>
+  </entry>
+  <entry skillID="21071" skill="Rapid Launch" level="3" priority="1" type="Planned">
+    <notes>Rapid Launch</notes>
+  </entry>
+  <entry skillID="3320" skill="Rockets" level="1" priority="1" type="Planned">
+    <notes>Rockets</notes>
+  </entry>
+  <entry skillID="3320" skill="Rockets" level="2" priority="1" type="Planned">
+    <notes>Rockets</notes>
+  </entry>
+  <entry skillID="3320" skill="Rockets" level="3" priority="1" type="Planned">
+    <notes>Rockets</notes>
+  </entry>
+  <entry skillID="3319" skill="Missile Launcher Operation" level="3" priority="1" type="Prerequisite">
+    <notes>Missile Projection, Warhead Upgrades</notes>
+  </entry>
+  <entry skillID="12442" skill="Missile Projection" level="1" priority="1" type="Planned">
+    <notes>Missile Projection</notes>
+  </entry>
+  <entry skillID="12442" skill="Missile Projection" level="2" priority="1" type="Planned">
+    <notes>Missile Projection</notes>
+  </entry>
+  <entry skillID="12441" skill="Missile Bombardment" level="1" priority="1" type="Planned">
+    <notes>Missile Bombardment</notes>
+  </entry>
+  <entry skillID="12441" skill="Missile Bombardment" level="2" priority="1" type="Planned">
+    <notes>Missile Bombardment</notes>
+  </entry>
+  <entry skillID="12441" skill="Missile Bombardment" level="3" priority="1" type="Planned">
+    <notes>Missile Bombardment</notes>
+  </entry>
+  <entry skillID="20314" skill="Target Navigation Prediction" level="1" priority="1" type="Planned">
+    <notes>Target Navigation Prediction</notes>
+  </entry>
+  <entry skillID="20314" skill="Target Navigation Prediction" level="2" priority="1" type="Planned">
+    <notes>Target Navigation Prediction</notes>
+  </entry>
+  <entry skillID="20314" skill="Target Navigation Prediction" level="3" priority="1" type="Planned">
+    <notes>Target Navigation Prediction</notes>
+  </entry>
+  <entry skillID="3454" skill="High Speed Maneuvering" level="2" priority="1" type="Planned">
+    <notes>High Speed Maneuvering</notes>
+  </entry>
+  <entry skillID="3454" skill="High Speed Maneuvering" level="3" priority="1" type="Planned">
+    <notes>High Speed Maneuvering</notes>
+  </entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="2" priority="1" type="Planned">
+    <notes>Evasive Maneuvering</notes>
+  </entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="3" priority="1" type="Planned">
+    <notes>Evasive Maneuvering</notes>
+  </entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="2" priority="1" type="Planned">
+    <notes>Warp Drive Operation</notes>
+  </entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="3" priority="1" type="Planned">
+    <notes>Warp Drive Operation</notes>
+  </entry>
+  <entry skillID="25739" skill="Astrometric Rangefinding" level="2" priority="1" type="Planned">
+    <notes>Astrometric Rangefinding</notes>
+  </entry>
+  <entry skillID="25811" skill="Astrometric Acquisition" level="2" priority="1" type="Planned">
+    <notes>Astrometric Acquisition</notes>
+  </entry>
+  <entry skillID="13278" skill="Archaeology" level="2" priority="1" type="Planned">
+    <notes>Archaeology</notes>
+  </entry>
+  <entry skillID="13278" skill="Archaeology" level="3" priority="1" type="Planned">
+    <notes>Archaeology</notes>
+  </entry>
+  <entry skillID="21718" skill="Hacking" level="2" priority="1" type="Planned">
+    <notes>Hacking</notes>
+  </entry>
+  <entry skillID="21718" skill="Hacking" level="3" priority="1" type="Planned">
+    <notes>Hacking</notes>
+  </entry>
+  <entry skillID="3425" skill="Shield Upgrades" level="3" priority="1" type="Planned">
+    <notes>Shield Upgrades</notes>
+  </entry>
+  <entry skillID="3425" skill="Shield Upgrades" level="4" priority="1" type="Planned">
+    <notes>Shield Upgrades</notes>
+  </entry>
+  <entry skillID="3419" skill="Shield Management" level="3" priority="1" type="Planned">
+    <notes>Shield Management</notes>
+  </entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="2" priority="1" type="Planned">
+    <notes>Long Range Targeting</notes>
+  </entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="3" priority="1" type="Planned">
+    <notes>Long Range Targeting</notes>
+  </entry>
+  <entry skillID="3431" skill="Signature Analysis" level="2" priority="1" type="Planned">
+    <notes>Signature Analysis</notes>
+  </entry>
+  <entry skillID="3431" skill="Signature Analysis" level="3" priority="1" type="Planned">
+    <notes>Signature Analysis</notes>
+  </entry>
+  <entry skillID="3429" skill="Target Management" level="3" priority="1" type="Planned">
+    <notes>Target Management</notes>
+  </entry>
+  <entry skillID="3429" skill="Target Management" level="4" priority="1" type="Planned">
+    <notes>Target Management</notes>
+  </entry>
+  <entry skillID="33092" skill="Caldari Destroyer" level="1" priority="1" type="Planned">
+    <notes>Caldari Destroyer, Caldari Cruiser</notes>
+  </entry>
+  <entry skillID="33092" skill="Caldari Destroyer" level="2" priority="1" type="Planned">
+    <notes>Caldari Destroyer, Caldari Cruiser</notes>
+  </entry>
+  <entry skillID="33092" skill="Caldari Destroyer" level="3" priority="1" type="Planned">
+    <notes>Caldari Destroyer, Caldari Cruiser</notes>
+  </entry>
+  <entry skillID="3334" skill="Caldari Cruiser" level="1" priority="1" type="Planned">
+    <notes>Caldari Cruiser</notes>
+  </entry>
+  <entry skillID="3334" skill="Caldari Cruiser" level="2" priority="1" type="Planned">
+    <notes>Caldari Cruiser</notes>
+  </entry>
+  <entry skillID="3334" skill="Caldari Cruiser" level="3" priority="1" type="Planned">
+    <notes>Caldari Cruiser</notes>
+  </entry>
+  <entry skillID="3317" skill="Trajectory Analysis" level="2" priority="1" type="Planned">
+    <notes>Trajectory Analysis</notes>
+  </entry>
+  <entry skillID="3315" skill="Surgical Strike" level="2" priority="1" type="Planned">
+    <notes>Surgical Strike</notes>
+  </entry>
+  <entry skillID="3318" skill="Weapon Upgrades" level="3" priority="1" type="Planned">
+    <notes>Weapon Upgrades, Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="3318" skill="Weapon Upgrades" level="4" priority="1" type="Planned">
+    <notes>Weapon Upgrades, Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="11207" skill="Advanced Weapon Upgrades" level="1" priority="1" type="Planned">
+    <notes>Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="2" priority="1" type="Planned">
+    <notes>Energy Grid Upgrades</notes>
+  </entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="3" priority="1" type="Planned">
+    <notes>Energy Grid Upgrades</notes>
+  </entry>
+  <entry skillID="3321" skill="Light Missiles" level="4" priority="10" type="Planned">
+    <notes>Light Missiles</notes>
+  </entry>
+  <entry skillID="3330" skill="Caldari Frigate" level="4" priority="10" type="Planned">
+    <notes>Caldari Frigate</notes>
+  </entry>
+  <entry skillID="33092" skill="Caldari Destroyer" level="4" priority="10" type="Planned">
+    <notes>Caldari Destroyer</notes>
+  </entry>
+  <entry skillID="3334" skill="Caldari Cruiser" level="4" priority="10" type="Planned">
+    <notes>Caldari Cruiser</notes>
+  </entry>
+  <entry skillID="12441" skill="Missile Bombardment" level="4" priority="10" type="Planned">
+    <notes>Missile Bombardment</notes>
+  </entry>
+  <entry skillID="3319" skill="Missile Launcher Operation" level="4" priority="10" type="Planned">
+    <notes>Missile Launcher Operation, Warhead Upgrades</notes>
+  </entry>
+  <entry skillID="3319" skill="Missile Launcher Operation" level="5" priority="10" type="Planned">
+    <notes>Missile Launcher Operation</notes>
+  </entry>
+  <entry skillID="21071" skill="Rapid Launch" level="4" priority="10" type="Planned">
+    <notes>Rapid Launch</notes>
+  </entry>
+  <entry skillID="20315" skill="Warhead Upgrades" level="1" priority="10" type="Planned">
+    <notes>Warhead Upgrades</notes>
+  </entry>
+  <entry skillID="20315" skill="Warhead Upgrades" level="2" priority="10" type="Planned">
+    <notes>Warhead Upgrades</notes>
+  </entry>
+  <entry skillID="20315" skill="Warhead Upgrades" level="3" priority="10" type="Planned">
+    <notes>Warhead Upgrades</notes>
+  </entry>
+</plan>
