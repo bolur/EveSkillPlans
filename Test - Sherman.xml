@@ -214,9 +214,6 @@
   <entry skillID="26261" skill="Shield Rigging" level="3" priority="1" type="Prerequisite">
     <notes />
   </entry>
-  <entry skillID="26261" skill="Shield Rigging" level="4" priority="10" type="Planned">
-    <notes>Shield Arty Loki</notes>
-  </entry>
   <entry skillID="3425" skill="Shield Upgrades" level="2" priority="1" type="Planned">
     <notes>Shield Upgrades</notes>
   </entry>
@@ -462,6 +459,15 @@
   </entry>
   <entry skillID="3411" skill="Cybernetics" level="1" priority="1" type="Planned">
     <notes>Cybernetics</notes>
+  </entry>
+  <entry skillID="11207" skill="Advanced Weapon Upgrades" level="5" priority="10" type="Planned">
+    <notes>Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="3425" skill="Shield Upgrades" level="5" priority="10" type="Planned">
+    <notes>Shield Upgrades</notes>
+  </entry>
+  <entry skillID="26261" skill="Shield Rigging" level="4" priority="10" type="Planned">
+    <notes>Shield Arty Loki</notes>
   </entry>
   <entry skillID="30545" skill="Minmatar Defensive Systems" level="5" priority="10" type="Planned">
     <notes>Minmatar Defensive Systems</notes>
