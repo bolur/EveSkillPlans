@@ -1,0 +1,502 @@
+﻿<?xml version="1.0"?>
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Sherman" owner="9f75252b-d80c-4791-8fe9-f627a139fc97" revision="4644">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="3329" skill="Minmatar Frigate" level="1" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Strategic Cruiser</notes>
+  </entry>
+  <entry skillID="3329" skill="Minmatar Frigate" level="2" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Strategic Cruiser</notes>
+  </entry>
+  <entry skillID="3329" skill="Minmatar Frigate" level="3" priority="1" type="Planned">
+    <notes>Shield Arty Loki, Minmatar Strategic Cruiser</notes>
+  </entry>
+  <entry skillID="33094" skill="Minmatar Destroyer" level="1" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Strategic Cruiser</notes>
+  </entry>
+  <entry skillID="33094" skill="Minmatar Destroyer" level="2" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Strategic Cruiser</notes>
+  </entry>
+  <entry skillID="33094" skill="Minmatar Destroyer" level="3" priority="1" type="Planned">
+    <notes>Shield Arty Loki, Minmatar Strategic Cruiser</notes>
+  </entry>
+  <entry skillID="3333" skill="Minmatar Cruiser" level="1" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Strategic Cruiser</notes>
+  </entry>
+  <entry skillID="3333" skill="Minmatar Cruiser" level="2" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Strategic Cruiser</notes>
+  </entry>
+  <entry skillID="3333" skill="Minmatar Cruiser" level="3" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Strategic Cruiser</notes>
+  </entry>
+  <entry skillID="3333" skill="Minmatar Cruiser" level="4" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Strategic Cruiser</notes>
+  </entry>
+  <entry skillID="3333" skill="Minmatar Cruiser" level="5" priority="1" type="Planned">
+    <notes>Shield Arty Loki, Minmatar Strategic Cruiser</notes>
+  </entry>
+  <entry skillID="30653" skill="Minmatar Strategic Cruiser" level="1" priority="1" type="Planned">
+    <notes>Shield Arty Loki</notes>
+  </entry>
+  <entry skillID="3392" skill="Mechanics" level="3" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Defensive Systems</notes>
+  </entry>
+  <entry skillID="3392" skill="Mechanics" level="4" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Defensive Systems</notes>
+  </entry>
+  <entry skillID="3392" skill="Mechanics" level="5" priority="1" type="Planned">
+    <notes>Shield Arty Loki, Minmatar Defensive Systems</notes>
+  </entry>
+  <entry skillID="3416" skill="Shield Operation" level="1" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Defensive Systems</notes>
+  </entry>
+  <entry skillID="3416" skill="Shield Operation" level="2" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Defensive Systems</notes>
+  </entry>
+  <entry skillID="3416" skill="Shield Operation" level="3" priority="1" type="Planned">
+    <notes>Shield Arty Loki, Minmatar Defensive Systems</notes>
+  </entry>
+  <entry skillID="30545" skill="Minmatar Defensive Systems" level="1" priority="1" type="Planned">
+    <notes>Shield Arty Loki</notes>
+  </entry>
+  <entry skillID="3426" skill="CPU Management" level="4" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Electronic Systems</notes>
+  </entry>
+  <entry skillID="3426" skill="CPU Management" level="5" priority="1" type="Planned">
+    <notes>Shield Arty Loki, Minmatar Electronic Systems</notes>
+  </entry>
+  <entry skillID="30543" skill="Minmatar Electronic Systems" level="1" priority="1" type="Planned">
+    <notes>Shield Arty Loki</notes>
+  </entry>
+  <entry skillID="3413" skill="Power Grid Management" level="4" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Engineering Systems, Thermodynamics</notes>
+  </entry>
+  <entry skillID="3413" skill="Power Grid Management" level="5" priority="1" type="Planned">
+    <notes>Shield Arty Loki, Minmatar Engineering Systems</notes>
+  </entry>
+  <entry skillID="30547" skill="Minmatar Engineering Systems" level="1" priority="1" type="Planned">
+    <notes>Shield Arty Loki</notes>
+  </entry>
+  <entry skillID="3300" skill="Gunnery" level="3" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Offensive Systems, Medium Artillery Specialization, Surgical Strike, Trajectory Analysis</notes>
+  </entry>
+  <entry skillID="3300" skill="Gunnery" level="4" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Offensive Systems, Surgical Strike, Trajectory Analysis</notes>
+  </entry>
+  <entry skillID="3300" skill="Gunnery" level="5" priority="1" type="Planned">
+    <notes>Shield Arty Loki, Minmatar Offensive Systems</notes>
+  </entry>
+  <entry skillID="3319" skill="Missile Launcher Operation" level="1" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Offensive Systems</notes>
+  </entry>
+  <entry skillID="3319" skill="Missile Launcher Operation" level="2" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Offensive Systems</notes>
+  </entry>
+  <entry skillID="3319" skill="Missile Launcher Operation" level="3" priority="1" type="Planned">
+    <notes>Shield Arty Loki, Minmatar Offensive Systems</notes>
+  </entry>
+  <entry skillID="30551" skill="Minmatar Offensive Systems" level="1" priority="1" type="Planned">
+    <notes>Shield Arty Loki</notes>
+  </entry>
+  <entry skillID="3449" skill="Navigation" level="4" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Minmatar Propulsion Systems</notes>
+  </entry>
+  <entry skillID="3449" skill="Navigation" level="5" priority="1" type="Planned">
+    <notes>Shield Arty Loki, Minmatar Propulsion Systems</notes>
+  </entry>
+  <entry skillID="30554" skill="Minmatar Propulsion Systems" level="1" priority="1" type="Planned">
+    <notes>Shield Arty Loki</notes>
+  </entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="1" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="2" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="3" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="4" priority="1" type="Planned">
+    <notes>Shield Arty Loki</notes>
+  </entry>
+  <entry skillID="3318" skill="Weapon Upgrades" level="1" priority="1" type="Prerequisite">
+    <notes>, Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="3318" skill="Weapon Upgrades" level="2" priority="1" type="Prerequisite">
+    <notes>, Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="3318" skill="Weapon Upgrades" level="3" priority="1" type="Prerequisite">
+    <notes>, Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="3318" skill="Weapon Upgrades" level="4" priority="1" type="Planned">
+    <notes>Shield Arty Loki, Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="3450" skill="Afterburner" level="1" priority="1" type="Prerequisite">
+    <notes>, Fuel Conservation</notes>
+  </entry>
+  <entry skillID="3450" skill="Afterburner" level="2" priority="1" type="Prerequisite">
+    <notes>, Fuel Conservation</notes>
+  </entry>
+  <entry skillID="3450" skill="Afterburner" level="3" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+    <notes>Shield Arty Loki</notes>
+  </entry>
+  <entry skillID="3425" skill="Shield Upgrades" level="1" priority="1" type="Planned">
+    <notes>Shield Arty Loki</notes>
+  </entry>
+  <entry skillID="3420" skill="Tactical Shield Manipulation" level="1" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3420" skill="Tactical Shield Manipulation" level="2" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3420" skill="Tactical Shield Manipulation" level="3" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="1" type="Planned">
+    <notes>Shield Arty Loki</notes>
+  </entry>
+  <entry skillID="3302" skill="Small Projectile Turret" level="1" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Medium Artillery Specialization</notes>
+  </entry>
+  <entry skillID="3302" skill="Small Projectile Turret" level="2" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Medium Artillery Specialization</notes>
+  </entry>
+  <entry skillID="3302" skill="Small Projectile Turret" level="3" priority="1" type="Planned">
+    <notes>Shield Arty Loki, Medium Artillery Specialization</notes>
+  </entry>
+  <entry skillID="3305" skill="Medium Projectile Turret" level="1" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Medium Artillery Specialization</notes>
+  </entry>
+  <entry skillID="3305" skill="Medium Projectile Turret" level="2" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Medium Artillery Specialization</notes>
+  </entry>
+  <entry skillID="3305" skill="Medium Projectile Turret" level="3" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Medium Artillery Specialization</notes>
+  </entry>
+  <entry skillID="3305" skill="Medium Projectile Turret" level="4" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Medium Artillery Specialization</notes>
+  </entry>
+  <entry skillID="3305" skill="Medium Projectile Turret" level="5" priority="1" type="Planned">
+    <notes>Shield Arty Loki, Medium Artillery Specialization</notes>
+  </entry>
+  <entry skillID="3311" skill="Sharpshooter" level="1" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Medium Artillery Specialization</notes>
+  </entry>
+  <entry skillID="3311" skill="Sharpshooter" level="2" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Medium Artillery Specialization</notes>
+  </entry>
+  <entry skillID="3311" skill="Sharpshooter" level="3" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki, Medium Artillery Specialization</notes>
+  </entry>
+  <entry skillID="3311" skill="Sharpshooter" level="4" priority="1" type="Planned">
+    <notes>Shield Arty Loki, Medium Artillery Specialization</notes>
+  </entry>
+  <entry skillID="12202" skill="Medium Artillery Specialization" level="1" priority="1" type="Planned">
+    <notes>Shield Arty Loki</notes>
+  </entry>
+  <entry skillID="26252" skill="Jury Rigging" level="1" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki</notes>
+  </entry>
+  <entry skillID="26252" skill="Jury Rigging" level="2" priority="1" type="Prerequisite">
+    <notes>Shield Arty Loki</notes>
+  </entry>
+  <entry skillID="26252" skill="Jury Rigging" level="3" priority="1" type="Planned">
+    <notes>Shield Arty Loki</notes>
+  </entry>
+  <entry skillID="26261" skill="Shield Rigging" level="1" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="26261" skill="Shield Rigging" level="2" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="26261" skill="Shield Rigging" level="3" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="26261" skill="Shield Rigging" level="4" priority="10" type="Planned">
+    <notes>Shield Arty Loki</notes>
+  </entry>
+  <entry skillID="3425" skill="Shield Upgrades" level="2" priority="1" type="Planned">
+    <notes>Shield Upgrades</notes>
+  </entry>
+  <entry skillID="3425" skill="Shield Upgrades" level="3" priority="1" type="Planned">
+    <notes>Shield Upgrades</notes>
+  </entry>
+  <entry skillID="3425" skill="Shield Upgrades" level="4" priority="1" type="Planned">
+    <notes>Shield Upgrades</notes>
+  </entry>
+  <entry skillID="30547" skill="Minmatar Engineering Systems" level="2" priority="1" type="Planned">
+    <notes>Minmatar Engineering Systems</notes>
+  </entry>
+  <entry skillID="30547" skill="Minmatar Engineering Systems" level="3" priority="1" type="Planned">
+    <notes>Minmatar Engineering Systems</notes>
+  </entry>
+  <entry skillID="30547" skill="Minmatar Engineering Systems" level="4" priority="1" type="Planned">
+    <notes>Minmatar Engineering Systems</notes>
+  </entry>
+  <entry skillID="30547" skill="Minmatar Engineering Systems" level="5" priority="1" type="Planned">
+    <notes>Minmatar Engineering Systems</notes>
+  </entry>
+  <entry skillID="3318" skill="Weapon Upgrades" level="5" priority="1" type="Prerequisite">
+    <notes>Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="11207" skill="Advanced Weapon Upgrades" level="1" priority="1" type="Planned">
+    <notes>Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="11207" skill="Advanced Weapon Upgrades" level="2" priority="1" type="Planned">
+    <notes>Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="11207" skill="Advanced Weapon Upgrades" level="3" priority="1" type="Planned">
+    <notes>Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="11207" skill="Advanced Weapon Upgrades" level="4" priority="1" type="Planned">
+    <notes>Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="3418" skill="Capacitor Management" level="1" priority="1" type="Planned">
+    <notes>Capacitor Management, Thermodynamics</notes>
+  </entry>
+  <entry skillID="3418" skill="Capacitor Management" level="2" priority="1" type="Planned">
+    <notes>Capacitor Management, Thermodynamics</notes>
+  </entry>
+  <entry skillID="3418" skill="Capacitor Management" level="3" priority="1" type="Planned">
+    <notes>Capacitor Management, Thermodynamics</notes>
+  </entry>
+  <entry skillID="3418" skill="Capacitor Management" level="4" priority="1" type="Planned">
+    <notes>Capacitor Management</notes>
+  </entry>
+  <entry skillID="3402" skill="Science" level="4" priority="1" type="Prerequisite">
+    <notes>Thermodynamics</notes>
+  </entry>
+  <entry skillID="28164" skill="Thermodynamics" level="1" priority="1" type="Planned">
+    <notes>Thermodynamics</notes>
+  </entry>
+  <entry skillID="28164" skill="Thermodynamics" level="2" priority="1" type="Planned">
+    <notes>Thermodynamics</notes>
+  </entry>
+  <entry skillID="28164" skill="Thermodynamics" level="3" priority="1" type="Planned">
+    <notes>Thermodynamics</notes>
+  </entry>
+  <entry skillID="30545" skill="Minmatar Defensive Systems" level="2" priority="1" type="Planned">
+    <notes>Minmatar Defensive Systems</notes>
+  </entry>
+  <entry skillID="30545" skill="Minmatar Defensive Systems" level="3" priority="1" type="Planned">
+    <notes>Minmatar Defensive Systems</notes>
+  </entry>
+  <entry skillID="30545" skill="Minmatar Defensive Systems" level="4" priority="1" type="Planned">
+    <notes>Minmatar Defensive Systems</notes>
+  </entry>
+  <entry skillID="30543" skill="Minmatar Electronic Systems" level="2" priority="1" type="Planned">
+    <notes>Minmatar Electronic Systems</notes>
+  </entry>
+  <entry skillID="30543" skill="Minmatar Electronic Systems" level="3" priority="1" type="Planned">
+    <notes>Minmatar Electronic Systems</notes>
+  </entry>
+  <entry skillID="30543" skill="Minmatar Electronic Systems" level="4" priority="1" type="Planned">
+    <notes>Minmatar Electronic Systems</notes>
+  </entry>
+  <entry skillID="30551" skill="Minmatar Offensive Systems" level="2" priority="1" type="Planned">
+    <notes>Minmatar Offensive Systems</notes>
+  </entry>
+  <entry skillID="30551" skill="Minmatar Offensive Systems" level="3" priority="1" type="Planned">
+    <notes>Minmatar Offensive Systems</notes>
+  </entry>
+  <entry skillID="30551" skill="Minmatar Offensive Systems" level="4" priority="1" type="Planned">
+    <notes>Minmatar Offensive Systems</notes>
+  </entry>
+  <entry skillID="30554" skill="Minmatar Propulsion Systems" level="2" priority="1" type="Planned">
+    <notes>Minmatar Propulsion Systems</notes>
+  </entry>
+  <entry skillID="30554" skill="Minmatar Propulsion Systems" level="3" priority="1" type="Planned">
+    <notes>Minmatar Propulsion Systems</notes>
+  </entry>
+  <entry skillID="30554" skill="Minmatar Propulsion Systems" level="4" priority="1" type="Planned">
+    <notes>Minmatar Propulsion Systems</notes>
+  </entry>
+  <entry skillID="3429" skill="Target Management" level="1" priority="1" type="Planned">
+    <notes>Target Management</notes>
+  </entry>
+  <entry skillID="3429" skill="Target Management" level="2" priority="1" type="Planned">
+    <notes>Target Management</notes>
+  </entry>
+  <entry skillID="3429" skill="Target Management" level="3" priority="1" type="Planned">
+    <notes>Target Management</notes>
+  </entry>
+  <entry skillID="3429" skill="Target Management" level="4" priority="1" type="Planned">
+    <notes>Target Management</notes>
+  </entry>
+  <entry skillID="3431" skill="Signature Analysis" level="1" priority="1" type="Planned">
+    <notes>Signature Analysis</notes>
+  </entry>
+  <entry skillID="3431" skill="Signature Analysis" level="2" priority="1" type="Planned">
+    <notes>Signature Analysis</notes>
+  </entry>
+  <entry skillID="3431" skill="Signature Analysis" level="3" priority="1" type="Planned">
+    <notes>Signature Analysis</notes>
+  </entry>
+  <entry skillID="3431" skill="Signature Analysis" level="4" priority="1" type="Planned">
+    <notes>Signature Analysis</notes>
+  </entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="1" priority="1" type="Planned">
+    <notes>Long Range Targeting</notes>
+  </entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="2" priority="1" type="Planned">
+    <notes>Long Range Targeting</notes>
+  </entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="3" priority="1" type="Planned">
+    <notes>Long Range Targeting</notes>
+  </entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="4" priority="1" type="Planned">
+    <notes>Long Range Targeting</notes>
+  </entry>
+  <entry skillID="3419" skill="Shield Management" level="1" priority="1" type="Planned">
+    <notes>Shield Management</notes>
+  </entry>
+  <entry skillID="3419" skill="Shield Management" level="2" priority="1" type="Planned">
+    <notes>Shield Management</notes>
+  </entry>
+  <entry skillID="3419" skill="Shield Management" level="3" priority="1" type="Planned">
+    <notes>Shield Management</notes>
+  </entry>
+  <entry skillID="3419" skill="Shield Management" level="4" priority="1" type="Planned">
+    <notes>Shield Management</notes>
+  </entry>
+  <entry skillID="3452" skill="Acceleration Control" level="1" priority="1" type="Planned">
+    <notes>Acceleration Control</notes>
+  </entry>
+  <entry skillID="3452" skill="Acceleration Control" level="2" priority="1" type="Planned">
+    <notes>Acceleration Control</notes>
+  </entry>
+  <entry skillID="3452" skill="Acceleration Control" level="3" priority="1" type="Planned">
+    <notes>Acceleration Control</notes>
+  </entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="1" priority="1" type="Planned">
+    <notes>Evasive Maneuvering</notes>
+  </entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="2" priority="1" type="Planned">
+    <notes>Evasive Maneuvering</notes>
+  </entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="3" priority="1" type="Planned">
+    <notes>Evasive Maneuvering</notes>
+  </entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="1" priority="1" type="Planned">
+    <notes>Warp Drive Operation</notes>
+  </entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="2" priority="1" type="Planned">
+    <notes>Warp Drive Operation</notes>
+  </entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="3" priority="1" type="Planned">
+    <notes>Warp Drive Operation</notes>
+  </entry>
+  <entry skillID="3451" skill="Fuel Conservation" level="1" priority="1" type="Planned">
+    <notes>Fuel Conservation</notes>
+  </entry>
+  <entry skillID="3451" skill="Fuel Conservation" level="2" priority="1" type="Planned">
+    <notes>Fuel Conservation</notes>
+  </entry>
+  <entry skillID="3451" skill="Fuel Conservation" level="3" priority="1" type="Planned">
+    <notes>Fuel Conservation</notes>
+  </entry>
+  <entry skillID="3451" skill="Fuel Conservation" level="4" priority="1" type="Planned">
+    <notes>Fuel Conservation</notes>
+  </entry>
+  <entry skillID="12202" skill="Medium Artillery Specialization" level="2" priority="1" type="Planned">
+    <notes>Medium Artillery Specialization</notes>
+  </entry>
+  <entry skillID="12202" skill="Medium Artillery Specialization" level="3" priority="1" type="Planned">
+    <notes>Medium Artillery Specialization</notes>
+  </entry>
+  <entry skillID="3310" skill="Rapid Firing" level="1" priority="1" type="Planned">
+    <notes>Rapid Firing</notes>
+  </entry>
+  <entry skillID="3310" skill="Rapid Firing" level="2" priority="1" type="Planned">
+    <notes>Rapid Firing</notes>
+  </entry>
+  <entry skillID="3310" skill="Rapid Firing" level="3" priority="1" type="Planned">
+    <notes>Rapid Firing</notes>
+  </entry>
+  <entry skillID="3310" skill="Rapid Firing" level="4" priority="1" type="Planned">
+    <notes>Rapid Firing</notes>
+  </entry>
+  <entry skillID="3312" skill="Motion Prediction" level="1" priority="1" type="Planned">
+    <notes>Motion Prediction</notes>
+  </entry>
+  <entry skillID="3312" skill="Motion Prediction" level="2" priority="1" type="Planned">
+    <notes>Motion Prediction</notes>
+  </entry>
+  <entry skillID="3312" skill="Motion Prediction" level="3" priority="1" type="Planned">
+    <notes>Motion Prediction</notes>
+  </entry>
+  <entry skillID="3312" skill="Motion Prediction" level="4" priority="1" type="Planned">
+    <notes>Motion Prediction</notes>
+  </entry>
+  <entry skillID="3315" skill="Surgical Strike" level="1" priority="1" type="Planned">
+    <notes>Surgical Strike</notes>
+  </entry>
+  <entry skillID="3315" skill="Surgical Strike" level="2" priority="1" type="Planned">
+    <notes>Surgical Strike</notes>
+  </entry>
+  <entry skillID="3315" skill="Surgical Strike" level="3" priority="1" type="Planned">
+    <notes>Surgical Strike</notes>
+  </entry>
+  <entry skillID="3317" skill="Trajectory Analysis" level="1" priority="1" type="Planned">
+    <notes>Trajectory Analysis</notes>
+  </entry>
+  <entry skillID="3317" skill="Trajectory Analysis" level="2" priority="1" type="Planned">
+    <notes>Trajectory Analysis</notes>
+  </entry>
+  <entry skillID="3317" skill="Trajectory Analysis" level="3" priority="1" type="Planned">
+    <notes>Trajectory Analysis</notes>
+  </entry>
+  <entry skillID="3327" skill="Spaceship Command" level="4" priority="1" type="Planned">
+    <notes>Spaceship Command</notes>
+  </entry>
+  <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+    <notes>Spaceship Command</notes>
+  </entry>
+  <entry skillID="30653" skill="Minmatar Strategic Cruiser" level="2" priority="1" type="Planned">
+    <notes>Minmatar Strategic Cruiser</notes>
+  </entry>
+  <entry skillID="30653" skill="Minmatar Strategic Cruiser" level="3" priority="1" type="Planned">
+    <notes>Minmatar Strategic Cruiser</notes>
+  </entry>
+  <entry skillID="3411" skill="Cybernetics" level="1" priority="1" type="Planned">
+    <notes>Cybernetics</notes>
+  </entry>
+  <entry skillID="30545" skill="Minmatar Defensive Systems" level="5" priority="10" type="Planned">
+    <notes>Minmatar Defensive Systems</notes>
+  </entry>
+  <entry skillID="30543" skill="Minmatar Electronic Systems" level="5" priority="10" type="Planned">
+    <notes>Minmatar Electronic Systems</notes>
+  </entry>
+  <entry skillID="30551" skill="Minmatar Offensive Systems" level="5" priority="10" type="Planned">
+    <notes>Minmatar Offensive Systems</notes>
+  </entry>
+  <entry skillID="12202" skill="Medium Artillery Specialization" level="4" priority="10" type="Planned">
+    <notes>Medium Artillery Specialization</notes>
+  </entry>
+  <entry skillID="3315" skill="Surgical Strike" level="4" priority="10" type="Planned">
+    <notes>Surgical Strike</notes>
+  </entry>
+  <entry skillID="3317" skill="Trajectory Analysis" level="4" priority="10" type="Planned">
+    <notes>Trajectory Analysis</notes>
+  </entry>
+  <entry skillID="3311" skill="Sharpshooter" level="5" priority="10" type="Planned">
+    <notes>Sharpshooter</notes>
+  </entry>
+  <entry skillID="3312" skill="Motion Prediction" level="5" priority="10" type="Planned">
+    <notes>Motion Prediction</notes>
+  </entry>
+  <entry skillID="3310" skill="Rapid Firing" level="5" priority="10" type="Planned">
+    <notes>Rapid Firing</notes>
+  </entry>
+  <entry skillID="3452" skill="Acceleration Control" level="4" priority="10" type="Planned">
+    <notes>Acceleration Control</notes>
+  </entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="4" priority="10" type="Planned">
+    <notes>Evasive Maneuvering</notes>
+  </entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="5" priority="10" type="Planned">
+    <notes>Evasive Maneuvering</notes>
+  </entry>
+</plan>
