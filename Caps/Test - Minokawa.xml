@@ -1,0 +1,895 @@
+﻿<?xml version="1.0"?>
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Minokawa" owner="9f75252b-d80c-4791-8fe9-f627a139fc97" revision="4658">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="3327" skill="Spaceship Command" level="4" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="20342" skill="Advanced Spaceship Command" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="20342" skill="Advanced Spaceship Command" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="20342" skill="Advanced Spaceship Command" level="3" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="20342" skill="Advanced Spaceship Command" level="4" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="20342" skill="Advanced Spaceship Command" level="5" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="20533" skill="Capital Ships" level="1" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="20533" skill="Capital Ships" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="20533" skill="Capital Ships" level="3" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="20533" skill="Capital Ships" level="4" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="3330" skill="Caldari Frigate" level="3" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="33092" skill="Caldari Destroyer" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="33092" skill="Caldari Destroyer" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="33092" skill="Caldari Destroyer" level="3" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="3334" skill="Caldari Cruiser" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="3334" skill="Caldari Cruiser" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="3334" skill="Caldari Cruiser" level="3" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="33096" skill="Caldari Battlecruiser" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="33096" skill="Caldari Battlecruiser" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="33096" skill="Caldari Battlecruiser" level="3" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="3338" skill="Caldari Battleship" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="3338" skill="Caldari Battleship" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="3338" skill="Caldari Battleship" level="3" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="3436" skill="Drones" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Heavy Shield Maintenance Bot I, Warrior II, Valkyrie II, Wasp EC-900, Drone Durability, Drone Navigation, Drone Sharpshooting, Drone Avionics, Amarr Drone Specialization, Sentry Drone Interfacing, Caldari Drone Specialization, Gallente Drone Specialization</notes>
+  </entry>
+  <entry skillID="3436" skill="Drones" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Heavy Shield Maintenance Bot I, Warrior II, Valkyrie II, Wasp EC-900, Drone Durability, Drone Navigation, Drone Sharpshooting, Amarr Drone Specialization, Sentry Drone Interfacing, Caldari Drone Specialization, Gallente Drone Specialization</notes>
+  </entry>
+  <entry skillID="3436" skill="Drones" level="3" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Heavy Shield Maintenance Bot I, Warrior II, Valkyrie II, Wasp EC-900, Drone Durability, Drone Navigation, Drone Sharpshooting, Amarr Drone Specialization, Sentry Drone Interfacing, Caldari Drone Specialization, Gallente Drone Specialization</notes>
+  </entry>
+  <entry skillID="3436" skill="Drones" level="4" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Heavy Shield Maintenance Bot I, Warrior II, Wasp EC-900, Drone Durability, Drone Navigation, Drone Sharpshooting, Amarr Drone Specialization, Sentry Drone Interfacing, Caldari Drone Specialization, Gallente Drone Specialization</notes>
+  </entry>
+  <entry skillID="3436" skill="Drones" level="5" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier, Heavy Shield Maintenance Bot I, Warrior II, Wasp EC-900, Drone Sharpshooting, Amarr Drone Specialization, Sentry Drone Interfacing, Caldari Drone Specialization, Gallente Drone Specialization</notes>
+  </entry>
+  <entry skillID="3442" skill="Drone Interfacing" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Sentry Drone Interfacing</notes>
+  </entry>
+  <entry skillID="3442" skill="Drone Interfacing" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Sentry Drone Interfacing</notes>
+  </entry>
+  <entry skillID="3442" skill="Drone Interfacing" level="3" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Sentry Drone Interfacing</notes>
+  </entry>
+  <entry skillID="3442" skill="Drone Interfacing" level="4" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Sentry Drone Interfacing</notes>
+  </entry>
+  <entry skillID="3442" skill="Drone Interfacing" level="5" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="3449" skill="Navigation" level="4" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Jump Drive Calibration</notes>
+  </entry>
+  <entry skillID="3449" skill="Navigation" level="5" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier, Jump Drive Calibration</notes>
+  </entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Jump Drive Calibration</notes>
+  </entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Jump Drive Calibration</notes>
+  </entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="3" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Jump Drive Calibration</notes>
+  </entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="4" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Jump Drive Calibration</notes>
+  </entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="5" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier, Jump Drive Calibration</notes>
+  </entry>
+  <entry skillID="3402" skill="Science" level="4" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Jump Drive Calibration, Thermodynamics, Neurotoxin Control, Neurotoxin Recovery</notes>
+  </entry>
+  <entry skillID="3402" skill="Science" level="5" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier, Jump Drive Calibration</notes>
+  </entry>
+  <entry skillID="3456" skill="Jump Drive Operation" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Jump Drive Calibration</notes>
+  </entry>
+  <entry skillID="3456" skill="Jump Drive Operation" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Jump Drive Calibration</notes>
+  </entry>
+  <entry skillID="3456" skill="Jump Drive Operation" level="3" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier, Jump Drive Calibration</notes>
+  </entry>
+  <entry skillID="21610" skill="Jump Fuel Conservation" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="21610" skill="Jump Fuel Conservation" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="21610" skill="Jump Fuel Conservation" level="3" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="21610" skill="Jump Fuel Conservation" level="4" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="3456" skill="Jump Drive Operation" level="4" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier, Jump Drive Calibration</notes>
+  </entry>
+  <entry skillID="3456" skill="Jump Drive Operation" level="5" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier, Jump Drive Calibration</notes>
+  </entry>
+  <entry skillID="21611" skill="Jump Drive Calibration" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="21611" skill="Jump Drive Calibration" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="21611" skill="Jump Drive Calibration" level="3" priority="1" type="Planned">
+    <notes>Fleet, Caldari Carrier</notes>
+  </entry>
+  <entry skillID="24312" skill="Caldari Carrier" level="1" priority="1" type="Planned">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="1" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="2" priority="1" type="Planned">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="3" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="4" priority="1" type="Planned">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="1" priority="1" type="Planned">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3420" skill="Tactical Shield Manipulation" level="1" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3420" skill="Tactical Shield Manipulation" level="2" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3420" skill="Tactical Shield Manipulation" level="3" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="1" type="Planned">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3417" skill="Capacitor Systems Operation" level="1" priority="1" type="Planned">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3425" skill="Shield Upgrades" level="1" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3425" skill="Shield Upgrades" level="2" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3425" skill="Shield Upgrades" level="3" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3425" skill="Shield Upgrades" level="4" priority="1" type="Planned">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3413" skill="Power Grid Management" level="4" priority="1" type="Prerequisite">
+    <notes>Fleet, Capital Capacitor Emission Systems, Thermodynamics, Capital Shield Operation, Capital Shield Emission Systems</notes>
+  </entry>
+  <entry skillID="3413" skill="Power Grid Management" level="5" priority="1" type="Planned">
+    <notes>Fleet, Capital Capacitor Emission Systems, Capital Shield Operation, Capital Shield Emission Systems</notes>
+  </entry>
+  <entry skillID="3422" skill="Shield Emission Systems" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet, Capital Shield Emission Systems</notes>
+  </entry>
+  <entry skillID="3422" skill="Shield Emission Systems" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet, Capital Shield Emission Systems</notes>
+  </entry>
+  <entry skillID="3422" skill="Shield Emission Systems" level="3" priority="1" type="Prerequisite">
+    <notes>Fleet, Capital Shield Emission Systems</notes>
+  </entry>
+  <entry skillID="3422" skill="Shield Emission Systems" level="4" priority="1" type="Prerequisite">
+    <notes>Fleet, Capital Shield Emission Systems</notes>
+  </entry>
+  <entry skillID="3422" skill="Shield Emission Systems" level="5" priority="1" type="Planned">
+    <notes>Fleet, Capital Shield Emission Systems</notes>
+  </entry>
+  <entry skillID="24571" skill="Capital Shield Emission Systems" level="1" priority="1" type="Planned">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet, Capital Capacitor Emission Systems</notes>
+  </entry>
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet, Capital Capacitor Emission Systems</notes>
+  </entry>
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="3" priority="1" type="Prerequisite">
+    <notes>Fleet, Capital Capacitor Emission Systems</notes>
+  </entry>
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="4" priority="1" type="Prerequisite">
+    <notes>Fleet, Capital Capacitor Emission Systems</notes>
+  </entry>
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="5" priority="1" type="Planned">
+    <notes>Fleet, Capital Capacitor Emission Systems</notes>
+  </entry>
+  <entry skillID="24572" skill="Capital Capacitor Emission Systems" level="1" priority="1" type="Planned">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3431" skill="Signature Analysis" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3431" skill="Signature Analysis" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3431" skill="Signature Analysis" level="3" priority="1" type="Prerequisite">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3431" skill="Signature Analysis" level="4" priority="1" type="Prerequisite">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3431" skill="Signature Analysis" level="5" priority="1" type="Planned">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="3" priority="1" type="Prerequisite">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="4" priority="1" type="Prerequisite">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="5" priority="1" type="Planned">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="12096" skill="Logistics Cruisers" level="1" priority="1" type="Prerequisite">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="12096" skill="Logistics Cruisers" level="2" priority="1" type="Prerequisite">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="12096" skill="Logistics Cruisers" level="3" priority="1" type="Prerequisite">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="12096" skill="Logistics Cruisers" level="4" priority="1" type="Prerequisite">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="12096" skill="Logistics Cruisers" level="5" priority="1" type="Planned">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="27906" skill="Tactical Logistics Reconfiguration" level="1" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="27906" skill="Tactical Logistics Reconfiguration" level="2" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="27906" skill="Tactical Logistics Reconfiguration" level="3" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="27906" skill="Tactical Logistics Reconfiguration" level="4" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3421" skill="Energy Pulse Weapons" level="1" priority="1" type="Planned">
+    <notes>Fleet</notes>
+  </entry>
+  <entry skillID="24312" skill="Caldari Carrier" level="2" priority="1" type="Planned">
+    <notes>Caldari Carrier</notes>
+  </entry>
+  <entry skillID="24312" skill="Caldari Carrier" level="3" priority="1" type="Planned">
+    <notes>Caldari Carrier</notes>
+  </entry>
+  <entry skillID="24312" skill="Caldari Carrier" level="4" priority="1" type="Planned">
+    <notes>Caldari Carrier</notes>
+  </entry>
+  <entry skillID="21611" skill="Jump Drive Calibration" level="4" priority="1" type="Planned">
+    <notes>Jump Drive Calibration</notes>
+  </entry>
+  <entry skillID="21611" skill="Jump Drive Calibration" level="5" priority="1" type="Planned">
+    <notes>Jump Drive Calibration</notes>
+  </entry>
+  <entry skillID="3450" skill="Afterburner" level="1" priority="1" type="Prerequisite">
+    <notes>50000MN Microwarpdrive I</notes>
+  </entry>
+  <entry skillID="3450" skill="Afterburner" level="2" priority="1" type="Prerequisite">
+    <notes>50000MN Microwarpdrive I</notes>
+  </entry>
+  <entry skillID="3450" skill="Afterburner" level="3" priority="1" type="Prerequisite">
+    <notes>50000MN Microwarpdrive I</notes>
+  </entry>
+  <entry skillID="3454" skill="High Speed Maneuvering" level="1" priority="1" type="Planned">
+    <notes>50000MN Microwarpdrive I</notes>
+  </entry>
+  <entry skillID="3426" skill="CPU Management" level="4" priority="1" type="Prerequisite">
+    <notes>Prototype Cloaking Device I, Cynosural Field Generator I</notes>
+  </entry>
+  <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Planned">
+    <notes>Prototype Cloaking Device I</notes>
+  </entry>
+  <entry skillID="3426" skill="CPU Management" level="5" priority="1" type="Prerequisite">
+    <notes>Cynosural Field Generator I</notes>
+  </entry>
+  <entry skillID="21603" skill="Cynosural Field Theory" level="1" priority="1" type="Planned">
+    <notes>Cynosural Field Generator I</notes>
+  </entry>
+  <entry skillID="23618" skill="Drone Durability" level="1" priority="1" type="Prerequisite">
+    <notes>Heavy Shield Maintenance Bot I</notes>
+  </entry>
+  <entry skillID="3439" skill="Repair Drone Operation" level="1" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3439" skill="Repair Drone Operation" level="2" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3439" skill="Repair Drone Operation" level="3" priority="1" type="Planned">
+    <notes>Heavy Shield Maintenance Bot I</notes>
+  </entry>
+  <entry skillID="3392" skill="Mechanics" level="3" priority="1" type="Prerequisite">
+    <notes>Heavy Armor Maintenance Bot I, Heavy Hull Maintenance Bot I, Nanite Operation, Nanite Interfacing, Shield Rigging</notes>
+  </entry>
+  <entry skillID="3393" skill="Repair Systems" level="1" priority="1" type="Prerequisite">
+    <notes>Heavy Armor Maintenance Bot I</notes>
+  </entry>
+  <entry skillID="3393" skill="Repair Systems" level="2" priority="1" type="Prerequisite">
+    <notes>Heavy Armor Maintenance Bot I</notes>
+  </entry>
+  <entry skillID="16069" skill="Remote Armor Repair Systems" level="1" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="16069" skill="Remote Armor Repair Systems" level="2" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="16069" skill="Remote Armor Repair Systems" level="3" priority="1" type="Planned">
+    <notes>Heavy Armor Maintenance Bot I</notes>
+  </entry>
+  <entry skillID="27902" skill="Remote Hull Repair Systems" level="1" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="27902" skill="Remote Hull Repair Systems" level="2" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="27902" skill="Remote Hull Repair Systems" level="3" priority="1" type="Planned">
+    <notes>Heavy Hull Maintenance Bot I</notes>
+  </entry>
+  <entry skillID="24241" skill="Light Drone Operation" level="1" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="24241" skill="Light Drone Operation" level="2" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="24241" skill="Light Drone Operation" level="3" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="24241" skill="Light Drone Operation" level="4" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="24241" skill="Light Drone Operation" level="5" priority="1" type="Planned">
+    <notes>Warrior II</notes>
+  </entry>
+  <entry skillID="12485" skill="Minmatar Drone Specialization" level="1" priority="1" type="Planned">
+    <notes>Warrior II</notes>
+  </entry>
+  <entry skillID="33699" skill="Medium Drone Operation" level="1" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="33699" skill="Medium Drone Operation" level="2" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="33699" skill="Medium Drone Operation" level="3" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="33699" skill="Medium Drone Operation" level="4" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="33699" skill="Medium Drone Operation" level="5" priority="1" type="Planned">
+    <notes>Valkyrie II</notes>
+  </entry>
+  <entry skillID="3427" skill="Electronic Warfare" level="1" priority="1" type="Prerequisite">
+    <notes>Wasp EC-900</notes>
+  </entry>
+  <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Prerequisite">
+    <notes>Wasp EC-900</notes>
+  </entry>
+  <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+    <notes>Wasp EC-900</notes>
+  </entry>
+  <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Prerequisite">
+    <notes>Wasp EC-900</notes>
+  </entry>
+  <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="23566" skill="Advanced Drone Avionics" level="2" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="23566" skill="Advanced Drone Avionics" level="3" priority="1" type="Planned">
+    <notes>Wasp EC-900</notes>
+  </entry>
+  <entry skillID="3411" skill="Cybernetics" level="1" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3411" skill="Cybernetics" level="2" priority="1" type="Planned">
+    <notes>Inherent Implants 'Squire' Capacitor Systems Operation EO-603</notes>
+  </entry>
+  <entry skillID="3405" skill="Biology" level="1" priority="1" type="Prerequisite">
+    <notes>, Neurotoxin Control, Neurotoxin Recovery</notes>
+  </entry>
+  <entry skillID="3405" skill="Biology" level="2" priority="1" type="Planned">
+    <notes>Improved Mindflood Booster</notes>
+  </entry>
+  <entry skillID="23618" skill="Drone Durability" level="2" priority="1" type="Planned">
+    <notes>Drone Durability</notes>
+  </entry>
+  <entry skillID="23618" skill="Drone Durability" level="3" priority="1" type="Planned">
+    <notes>Drone Durability</notes>
+  </entry>
+  <entry skillID="23618" skill="Drone Durability" level="4" priority="1" type="Planned">
+    <notes>Drone Durability</notes>
+  </entry>
+  <entry skillID="12305" skill="Drone Navigation" level="1" priority="1" type="Planned">
+    <notes>Drone Navigation</notes>
+  </entry>
+  <entry skillID="12305" skill="Drone Navigation" level="2" priority="1" type="Planned">
+    <notes>Drone Navigation</notes>
+  </entry>
+  <entry skillID="12305" skill="Drone Navigation" level="3" priority="1" type="Planned">
+    <notes>Drone Navigation</notes>
+  </entry>
+  <entry skillID="12305" skill="Drone Navigation" level="4" priority="1" type="Planned">
+    <notes>Drone Navigation</notes>
+  </entry>
+  <entry skillID="23606" skill="Drone Sharpshooting" level="1" priority="1" type="Planned">
+    <notes>Drone Sharpshooting, Sentry Drone Interfacing</notes>
+  </entry>
+  <entry skillID="23606" skill="Drone Sharpshooting" level="2" priority="1" type="Planned">
+    <notes>Drone Sharpshooting, Sentry Drone Interfacing</notes>
+  </entry>
+  <entry skillID="23606" skill="Drone Sharpshooting" level="3" priority="1" type="Planned">
+    <notes>Drone Sharpshooting, Sentry Drone Interfacing</notes>
+  </entry>
+  <entry skillID="23606" skill="Drone Sharpshooting" level="4" priority="1" type="Planned">
+    <notes>Drone Sharpshooting, Sentry Drone Interfacing</notes>
+  </entry>
+  <entry skillID="3437" skill="Drone Avionics" level="1" priority="1" type="Planned">
+    <notes>Drone Avionics</notes>
+  </entry>
+  <entry skillID="3437" skill="Drone Avionics" level="2" priority="1" type="Planned">
+    <notes>Drone Avionics</notes>
+  </entry>
+  <entry skillID="3437" skill="Drone Avionics" level="3" priority="1" type="Planned">
+    <notes>Drone Avionics</notes>
+  </entry>
+  <entry skillID="3437" skill="Drone Avionics" level="4" priority="1" type="Planned">
+    <notes>Drone Avionics</notes>
+  </entry>
+  <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+    <notes>Drone Avionics</notes>
+  </entry>
+  <entry skillID="12484" skill="Amarr Drone Specialization" level="1" priority="1" type="Planned">
+    <notes>Amarr Drone Specialization</notes>
+  </entry>
+  <entry skillID="12484" skill="Amarr Drone Specialization" level="2" priority="1" type="Planned">
+    <notes>Amarr Drone Specialization</notes>
+  </entry>
+  <entry skillID="12484" skill="Amarr Drone Specialization" level="3" priority="1" type="Planned">
+    <notes>Amarr Drone Specialization</notes>
+  </entry>
+  <entry skillID="12484" skill="Amarr Drone Specialization" level="4" priority="1" type="Planned">
+    <notes>Amarr Drone Specialization</notes>
+  </entry>
+  <entry skillID="3418" skill="Capacitor Management" level="1" priority="1" type="Planned">
+    <notes>Capacitor Management, Thermodynamics</notes>
+  </entry>
+  <entry skillID="3418" skill="Capacitor Management" level="2" priority="1" type="Planned">
+    <notes>Capacitor Management, Thermodynamics</notes>
+  </entry>
+  <entry skillID="3418" skill="Capacitor Management" level="3" priority="1" type="Planned">
+    <notes>Capacitor Management, Thermodynamics</notes>
+  </entry>
+  <entry skillID="3418" skill="Capacitor Management" level="4" priority="1" type="Planned">
+    <notes>Capacitor Management</notes>
+  </entry>
+  <entry skillID="3418" skill="Capacitor Management" level="5" priority="1" type="Planned">
+    <notes>Capacitor Management</notes>
+  </entry>
+  <entry skillID="3417" skill="Capacitor Systems Operation" level="2" priority="1" type="Planned">
+    <notes>Capacitor Systems Operation</notes>
+  </entry>
+  <entry skillID="3417" skill="Capacitor Systems Operation" level="3" priority="1" type="Planned">
+    <notes>Capacitor Systems Operation</notes>
+  </entry>
+  <entry skillID="3417" skill="Capacitor Systems Operation" level="4" priority="1" type="Planned">
+    <notes>Capacitor Systems Operation</notes>
+  </entry>
+  <entry skillID="3417" skill="Capacitor Systems Operation" level="5" priority="1" type="Planned">
+    <notes>Capacitor Systems Operation</notes>
+  </entry>
+  <entry skillID="24572" skill="Capital Capacitor Emission Systems" level="2" priority="1" type="Planned">
+    <notes>Capital Capacitor Emission Systems</notes>
+  </entry>
+  <entry skillID="24572" skill="Capital Capacitor Emission Systems" level="3" priority="1" type="Planned">
+    <notes>Capital Capacitor Emission Systems</notes>
+  </entry>
+  <entry skillID="24572" skill="Capital Capacitor Emission Systems" level="4" priority="1" type="Planned">
+    <notes>Capital Capacitor Emission Systems</notes>
+  </entry>
+  <entry skillID="3432" skill="Electronics Upgrades" level="1" priority="1" type="Planned">
+    <notes>Electronics Upgrades</notes>
+  </entry>
+  <entry skillID="3432" skill="Electronics Upgrades" level="2" priority="1" type="Planned">
+    <notes>Electronics Upgrades</notes>
+  </entry>
+  <entry skillID="3432" skill="Electronics Upgrades" level="3" priority="1" type="Planned">
+    <notes>Electronics Upgrades</notes>
+  </entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="5" priority="1" type="Planned">
+    <notes>Energy Grid Upgrades</notes>
+  </entry>
+  <entry skillID="28164" skill="Thermodynamics" level="1" priority="1" type="Planned">
+    <notes>Thermodynamics</notes>
+  </entry>
+  <entry skillID="28164" skill="Thermodynamics" level="2" priority="1" type="Planned">
+    <notes>Thermodynamics</notes>
+  </entry>
+  <entry skillID="28164" skill="Thermodynamics" level="3" priority="1" type="Planned">
+    <notes>Thermodynamics</notes>
+  </entry>
+  <entry skillID="28164" skill="Thermodynamics" level="4" priority="1" type="Planned">
+    <notes>Thermodynamics</notes>
+  </entry>
+  <entry skillID="3392" skill="Mechanics" level="4" priority="1" type="Prerequisite">
+    <notes>Nanite Operation, Nanite Interfacing</notes>
+  </entry>
+  <entry skillID="28879" skill="Nanite Operation" level="1" priority="1" type="Planned">
+    <notes>Nanite Operation, Nanite Interfacing</notes>
+  </entry>
+  <entry skillID="28879" skill="Nanite Operation" level="2" priority="1" type="Planned">
+    <notes>Nanite Operation, Nanite Interfacing</notes>
+  </entry>
+  <entry skillID="28879" skill="Nanite Operation" level="3" priority="1" type="Planned">
+    <notes>Nanite Operation, Nanite Interfacing</notes>
+  </entry>
+  <entry skillID="28879" skill="Nanite Operation" level="4" priority="1" type="Planned">
+    <notes>Nanite Operation</notes>
+  </entry>
+  <entry skillID="28880" skill="Nanite Interfacing" level="1" priority="1" type="Planned">
+    <notes>Nanite Interfacing</notes>
+  </entry>
+  <entry skillID="28880" skill="Nanite Interfacing" level="2" priority="1" type="Planned">
+    <notes>Nanite Interfacing</notes>
+  </entry>
+  <entry skillID="28880" skill="Nanite Interfacing" level="3" priority="1" type="Planned">
+    <notes>Nanite Interfacing</notes>
+  </entry>
+  <entry skillID="28880" skill="Nanite Interfacing" level="4" priority="1" type="Planned">
+    <notes>Nanite Interfacing</notes>
+  </entry>
+  <entry skillID="3452" skill="Acceleration Control" level="1" priority="1" type="Planned">
+    <notes>Acceleration Control</notes>
+  </entry>
+  <entry skillID="3452" skill="Acceleration Control" level="2" priority="1" type="Planned">
+    <notes>Acceleration Control</notes>
+  </entry>
+  <entry skillID="3452" skill="Acceleration Control" level="3" priority="1" type="Planned">
+    <notes>Acceleration Control</notes>
+  </entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="1" priority="1" type="Planned">
+    <notes>Evasive Maneuvering</notes>
+  </entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="2" priority="1" type="Planned">
+    <notes>Evasive Maneuvering</notes>
+  </entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="3" priority="1" type="Planned">
+    <notes>Evasive Maneuvering</notes>
+  </entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="4" priority="1" type="Planned">
+    <notes>Evasive Maneuvering</notes>
+  </entry>
+  <entry skillID="3405" skill="Biology" level="3" priority="1" type="Planned">
+    <notes>Biology</notes>
+  </entry>
+  <entry skillID="3419" skill="Shield Management" level="1" priority="1" type="Planned">
+    <notes>Shield Management, Capital Shield Operation</notes>
+  </entry>
+  <entry skillID="3419" skill="Shield Management" level="2" priority="1" type="Planned">
+    <notes>Shield Management, Capital Shield Operation</notes>
+  </entry>
+  <entry skillID="3419" skill="Shield Management" level="3" priority="1" type="Planned">
+    <notes>Shield Management, Capital Shield Operation</notes>
+  </entry>
+  <entry skillID="3419" skill="Shield Management" level="4" priority="1" type="Planned">
+    <notes>Shield Management, Capital Shield Operation</notes>
+  </entry>
+  <entry skillID="3419" skill="Shield Management" level="5" priority="1" type="Planned">
+    <notes>Shield Management, Capital Shield Operation</notes>
+  </entry>
+  <entry skillID="3416" skill="Shield Operation" level="1" priority="1" type="Planned">
+    <notes>Shield Operation, Capital Shield Operation</notes>
+  </entry>
+  <entry skillID="3416" skill="Shield Operation" level="2" priority="1" type="Planned">
+    <notes>Shield Operation, Capital Shield Operation</notes>
+  </entry>
+  <entry skillID="3416" skill="Shield Operation" level="3" priority="1" type="Planned">
+    <notes>Shield Operation, Capital Shield Operation</notes>
+  </entry>
+  <entry skillID="3416" skill="Shield Operation" level="4" priority="1" type="Planned">
+    <notes>Shield Operation, Capital Shield Operation</notes>
+  </entry>
+  <entry skillID="3416" skill="Shield Operation" level="5" priority="1" type="Planned">
+    <notes>Shield Operation, Capital Shield Operation</notes>
+  </entry>
+  <entry skillID="21802" skill="Capital Shield Operation" level="1" priority="1" type="Planned">
+    <notes>Capital Shield Operation</notes>
+  </entry>
+  <entry skillID="21802" skill="Capital Shield Operation" level="2" priority="1" type="Planned">
+    <notes>Capital Shield Operation</notes>
+  </entry>
+  <entry skillID="21802" skill="Capital Shield Operation" level="3" priority="1" type="Planned">
+    <notes>Capital Shield Operation</notes>
+  </entry>
+  <entry skillID="21802" skill="Capital Shield Operation" level="4" priority="1" type="Planned">
+    <notes>Capital Shield Operation</notes>
+  </entry>
+  <entry skillID="24571" skill="Capital Shield Emission Systems" level="2" priority="1" type="Planned">
+    <notes>Capital Shield Emission Systems</notes>
+  </entry>
+  <entry skillID="24571" skill="Capital Shield Emission Systems" level="3" priority="1" type="Planned">
+    <notes>Capital Shield Emission Systems</notes>
+  </entry>
+  <entry skillID="24571" skill="Capital Shield Emission Systems" level="4" priority="1" type="Planned">
+    <notes>Capital Shield Emission Systems</notes>
+  </entry>
+  <entry skillID="3429" skill="Target Management" level="1" priority="1" type="Planned">
+    <notes>Target Management, Advanced Target Management</notes>
+  </entry>
+  <entry skillID="3429" skill="Target Management" level="2" priority="1" type="Planned">
+    <notes>Target Management, Advanced Target Management</notes>
+  </entry>
+  <entry skillID="3429" skill="Target Management" level="3" priority="1" type="Planned">
+    <notes>Target Management, Advanced Target Management</notes>
+  </entry>
+  <entry skillID="3429" skill="Target Management" level="4" priority="1" type="Planned">
+    <notes>Target Management, Advanced Target Management</notes>
+  </entry>
+  <entry skillID="3429" skill="Target Management" level="5" priority="1" type="Planned">
+    <notes>Target Management, Advanced Target Management</notes>
+  </entry>
+  <entry skillID="3430" skill="Advanced Target Management" level="1" priority="1" type="Planned">
+    <notes>Advanced Target Management</notes>
+  </entry>
+  <entry skillID="3430" skill="Advanced Target Management" level="2" priority="1" type="Planned">
+    <notes>Advanced Target Management</notes>
+  </entry>
+  <entry skillID="3430" skill="Advanced Target Management" level="3" priority="1" type="Planned">
+    <notes>Advanced Target Management</notes>
+  </entry>
+  <entry skillID="3430" skill="Advanced Target Management" level="4" priority="1" type="Planned">
+    <notes>Advanced Target Management</notes>
+  </entry>
+  <entry skillID="23594" skill="Sentry Drone Interfacing" level="1" priority="1" type="Planned">
+    <notes>Sentry Drone Interfacing</notes>
+  </entry>
+  <entry skillID="23594" skill="Sentry Drone Interfacing" level="2" priority="1" type="Planned">
+    <notes>Sentry Drone Interfacing</notes>
+  </entry>
+  <entry skillID="23594" skill="Sentry Drone Interfacing" level="3" priority="1" type="Planned">
+    <notes>Sentry Drone Interfacing</notes>
+  </entry>
+  <entry skillID="3411" skill="Cybernetics" level="3" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3411" skill="Cybernetics" level="4" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3411" skill="Cybernetics" level="5" priority="1" type="Planned">
+    <notes>Shield Command Mindlink</notes>
+  </entry>
+  <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Prerequisite">
+    <notes>Shield Command Mindlink, Command Burst Specialist, Wing Command</notes>
+  </entry>
+  <entry skillID="3350" skill="Shield Command" level="1" priority="1" type="Prerequisite">
+    <notes>Shield Command Mindlink</notes>
+  </entry>
+  <entry skillID="3350" skill="Shield Command" level="2" priority="1" type="Prerequisite">
+    <notes>Shield Command Mindlink</notes>
+  </entry>
+  <entry skillID="3350" skill="Shield Command" level="3" priority="1" type="Prerequisite">
+    <notes>Shield Command Mindlink</notes>
+  </entry>
+  <entry skillID="3350" skill="Shield Command" level="4" priority="1" type="Prerequisite">
+    <notes>Shield Command Mindlink</notes>
+  </entry>
+  <entry skillID="3350" skill="Shield Command" level="5" priority="1" type="Prerequisite">
+    <notes>Shield Command Mindlink</notes>
+  </entry>
+  <entry skillID="3351" skill="Shield Command Specialist" level="1" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3351" skill="Shield Command Specialist" level="2" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3351" skill="Shield Command Specialist" level="3" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3351" skill="Shield Command Specialist" level="4" priority="1" type="Prerequisite">
+    <notes />
+  </entry>
+  <entry skillID="3351" skill="Shield Command Specialist" level="5" priority="1" type="Planned">
+    <notes>Shield Command Mindlink</notes>
+  </entry>
+  <entry skillID="23594" skill="Sentry Drone Interfacing" level="4" priority="10" type="Planned">
+    <notes>Sentry Drone Interfacing</notes>
+  </entry>
+  <entry skillID="23594" skill="Sentry Drone Interfacing" level="5" priority="10" type="Planned">
+    <notes>Sentry Drone Interfacing</notes>
+  </entry>
+  <entry skillID="12487" skill="Caldari Drone Specialization" level="1" priority="10" type="Planned">
+    <notes>Caldari Drone Specialization</notes>
+  </entry>
+  <entry skillID="12487" skill="Caldari Drone Specialization" level="2" priority="10" type="Planned">
+    <notes>Caldari Drone Specialization</notes>
+  </entry>
+  <entry skillID="12487" skill="Caldari Drone Specialization" level="3" priority="10" type="Planned">
+    <notes>Caldari Drone Specialization</notes>
+  </entry>
+  <entry skillID="12486" skill="Gallente Drone Specialization" level="1" priority="10" type="Planned">
+    <notes>Gallente Drone Specialization</notes>
+  </entry>
+  <entry skillID="12486" skill="Gallente Drone Specialization" level="2" priority="10" type="Planned">
+    <notes>Gallente Drone Specialization</notes>
+  </entry>
+  <entry skillID="12486" skill="Gallente Drone Specialization" level="3" priority="10" type="Planned">
+    <notes>Gallente Drone Specialization</notes>
+  </entry>
+  <entry skillID="3348" skill="Leadership" level="2" priority="10" type="Prerequisite">
+    <notes>Command Burst Specialist, Wing Command</notes>
+  </entry>
+  <entry skillID="3348" skill="Leadership" level="3" priority="10" type="Prerequisite">
+    <notes>Command Burst Specialist, Wing Command</notes>
+  </entry>
+  <entry skillID="3348" skill="Leadership" level="4" priority="10" type="Prerequisite">
+    <notes>Command Burst Specialist, Wing Command</notes>
+  </entry>
+  <entry skillID="3348" skill="Leadership" level="5" priority="10" type="Prerequisite">
+    <notes>Command Burst Specialist, Wing Command</notes>
+  </entry>
+  <entry skillID="3354" skill="Command Burst Specialist" level="1" priority="10" type="Planned">
+    <notes>Command Burst Specialist</notes>
+  </entry>
+  <entry skillID="3354" skill="Command Burst Specialist" level="2" priority="10" type="Planned">
+    <notes>Command Burst Specialist</notes>
+  </entry>
+  <entry skillID="3354" skill="Command Burst Specialist" level="3" priority="10" type="Planned">
+    <notes>Command Burst Specialist</notes>
+  </entry>
+  <entry skillID="3354" skill="Command Burst Specialist" level="4" priority="10" type="Planned">
+    <notes>Command Burst Specialist</notes>
+  </entry>
+  <entry skillID="11574" skill="Wing Command" level="1" priority="10" type="Planned">
+    <notes>Wing Command</notes>
+  </entry>
+  <entry skillID="11574" skill="Wing Command" level="2" priority="10" type="Planned">
+    <notes>Wing Command</notes>
+  </entry>
+  <entry skillID="11574" skill="Wing Command" level="3" priority="10" type="Planned">
+    <notes>Wing Command</notes>
+  </entry>
+  <entry skillID="11574" skill="Wing Command" level="4" priority="10" type="Planned">
+    <notes>Wing Command</notes>
+  </entry>
+  <entry skillID="3405" skill="Biology" level="4" priority="10" type="Planned">
+    <notes>Biology</notes>
+  </entry>
+  <entry skillID="3405" skill="Biology" level="5" priority="10" type="Planned">
+    <notes>Biology</notes>
+  </entry>
+  <entry skillID="25538" skill="Neurotoxin Control" level="1" priority="10" type="Planned">
+    <notes>Neurotoxin Control, Neurotoxin Recovery</notes>
+  </entry>
+  <entry skillID="25538" skill="Neurotoxin Control" level="2" priority="10" type="Planned">
+    <notes>Neurotoxin Control</notes>
+  </entry>
+  <entry skillID="25538" skill="Neurotoxin Control" level="3" priority="10" type="Planned">
+    <notes>Neurotoxin Control</notes>
+  </entry>
+  <entry skillID="25538" skill="Neurotoxin Control" level="4" priority="10" type="Planned">
+    <notes>Neurotoxin Control</notes>
+  </entry>
+  <entry skillID="25538" skill="Neurotoxin Control" level="5" priority="10" type="Planned">
+    <notes>Neurotoxin Control</notes>
+  </entry>
+  <entry skillID="25530" skill="Neurotoxin Recovery" level="1" priority="10" type="Planned">
+    <notes>Neurotoxin Recovery</notes>
+  </entry>
+  <entry skillID="25530" skill="Neurotoxin Recovery" level="2" priority="10" type="Planned">
+    <notes>Neurotoxin Recovery</notes>
+  </entry>
+  <entry skillID="25530" skill="Neurotoxin Recovery" level="3" priority="10" type="Planned">
+    <notes>Neurotoxin Recovery</notes>
+  </entry>
+  <entry skillID="25530" skill="Neurotoxin Recovery" level="4" priority="10" type="Planned">
+    <notes>Neurotoxin Recovery</notes>
+  </entry>
+  <entry skillID="25530" skill="Neurotoxin Recovery" level="5" priority="10" type="Planned">
+    <notes>Neurotoxin Recovery</notes>
+  </entry>
+  <entry skillID="26252" skill="Jury Rigging" level="1" priority="10" type="Prerequisite">
+    <notes>Shield Rigging</notes>
+  </entry>
+  <entry skillID="26252" skill="Jury Rigging" level="2" priority="10" type="Prerequisite">
+    <notes>Shield Rigging</notes>
+  </entry>
+  <entry skillID="26252" skill="Jury Rigging" level="3" priority="10" type="Prerequisite">
+    <notes>Shield Rigging</notes>
+  </entry>
+  <entry skillID="26261" skill="Shield Rigging" level="1" priority="10" type="Planned">
+    <notes>Shield Rigging</notes>
+  </entry>
+  <entry skillID="26261" skill="Shield Rigging" level="2" priority="10" type="Planned">
+    <notes>Shield Rigging</notes>
+  </entry>
+  <entry skillID="26261" skill="Shield Rigging" level="3" priority="10" type="Planned">
+    <notes>Shield Rigging</notes>
+  </entry>
+  <entry skillID="26261" skill="Shield Rigging" level="4" priority="10" type="Planned">
+    <notes>Shield Rigging</notes>
+  </entry>
+  <entry skillID="24571" skill="Capital Shield Emission Systems" level="5" priority="10" type="Planned">
+    <notes>Capital Shield Emission Systems</notes>
+  </entry>
+  <entry skillID="21802" skill="Capital Shield Operation" level="5" priority="10" type="Planned">
+    <notes>Capital Shield Operation</notes>
+  </entry>
+  <entry skillID="24572" skill="Capital Capacitor Emission Systems" level="5" priority="10" type="Planned">
+    <notes>Capital Capacitor Emission Systems</notes>
+  </entry>
+  <entry skillID="3430" skill="Advanced Target Management" level="5" priority="10" type="Planned">
+    <notes>Advanced Target Management</notes>
+  </entry>
+  <entry skillID="24312" skill="Caldari Carrier" level="5" priority="10" type="Planned">
+    <notes>Caldari Carrier</notes>
+  </entry>
+  <entry skillID="27906" skill="Tactical Logistics Reconfiguration" level="5" priority="10" type="Planned">
+    <notes>Fleet</notes>
+  </entry>
+</plan>
